@@ -406,9 +406,9 @@ body {
 }
 
 .errorMessage {
-     font-size: 12px;
+    font-size: 12px;
     color: red;
-    margin-top: 5px;
+    margin-top: 13px;
     position: absolute;
     top: 30px;
     width: 100%;
